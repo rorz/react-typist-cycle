@@ -1,0 +1,23 @@
+{
+  "name": "react-typist-cycle",
+  "version": "0.1.0",
+  "description": "A simple cycler for queuing react-typist elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-typist",
+    "typist",
+    "repeat"
+  ],
+  "author": "Rorz",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^0.14 || ^15.0",
+    "react-dom": "^^0.14 || ^15.0"
+  },
+  "dependencies": {
+    "react-typist": "^1.1.0"
+  }
+}
