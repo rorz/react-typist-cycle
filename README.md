@@ -46,4 +46,6 @@ NOTE: At the end of the specified cycle amount, the component will load the firs
 
 The delay at the end of each line, in seconds.
 
+## Licence
+MIT
 
