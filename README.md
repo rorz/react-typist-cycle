@@ -2,9 +2,12 @@
 A React Component for 'cycling' through [React-Typist](https://github.com/jstejada/react-typist) elements.
 
 ## Install
-```shell
-npm install react-typist-cycle
-```
+Clone the repo for now and use index.jsx.
+
+Npm coming soon!
+
+~~npm install react-typist-cycle~~
+
 ## Example Usage
 ![example of the element in use](https://raw.githubusercontent.com/rorz/react-typist-cycle/master/demo.gif)
 
